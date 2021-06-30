@@ -1,2 +1,6 @@
 /node_modules
 /config/.env
+/config/info.md
+/routes/post.routes.js
+/controllers/post.controller.js
+/models/post.model.js

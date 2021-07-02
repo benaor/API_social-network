@@ -1,3 +1,5 @@
 /node_modules
 /config/.env
 /config/info.md
+/client/public/uploads/posts/*
+/client/public/uploads/profil/*

@@ -3,3 +3,5 @@
 /config/info.md
 /client/public/uploads/posts/*
 /client/public/uploads/profil/*
+/client/node_modules
+/client
